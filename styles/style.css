@@ -1,0 +1,36 @@
+.background{
+  background-color: rgba(0,0,0,0);
+}
+
+.btn{
+  padding-left: 6px;
+  padding-right: 6px;
+  margin: auto;
+  margin-top: 25px;
+  display: block;
+  background-color: black;
+  border: 0.5px solid;
+  border-radius: 4px;
+  padding: 20px 40px;
+}
+
+.btn:hover{
+  box-shadow: 4px 8px 10px 0px rgba(128,128,128,1);
+  cursor: pointer;
+  outline: none;
+}
+
+.btn span{
+  color: white;
+  font: Georgia;
+  font-size: 18px;
+}
+
+canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin: auto;
+  margin-top: 75px;
+  margin-bottom: 50px;
+  display: block;
+}
